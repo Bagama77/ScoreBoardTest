@@ -1,3 +1,5 @@
+package com.scoreboard;
+
 import lombok.Data;
 import lombok.NonNull;
 

@@ -25,8 +25,8 @@ The summary should be as follows:
 5. Germany 2 - France 2
 
 
-# main.ScoreBoard
-main.ScoreBoard
+# main.com.scoreboard.ScoreBoard
+main.com.scoreboard.ScoreBoard
 
 When starting the match there is checking that any team in new match already was in the
 list of current matches. If so, match will not started and there will be warning "There is already has a match with this team - <teamName>"

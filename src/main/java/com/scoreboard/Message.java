@@ -1,3 +1,5 @@
+package com.scoreboard;
+
 public class Message {
     public static final String ALREADY_HAS_A_MATCH = "There is already has a match with this team - %s";
     public static final String CANNOT_ADD_A_MATCH = "Cannot add new match. %s";

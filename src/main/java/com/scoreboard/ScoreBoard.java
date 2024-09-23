@@ -1,3 +1,5 @@
+package com.scoreboard;
+
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.Setter;
@@ -153,7 +155,7 @@ public class ScoreBoard implements ScoreboardActivity {
 
     @Override
     public String toString() {
-        return "main.ScoreBoard{" +
+        return "main.com.scoreboard.ScoreBoard{" +
                 "matches=" + matches +
                 ", teams=" + teams +
                 '}';
